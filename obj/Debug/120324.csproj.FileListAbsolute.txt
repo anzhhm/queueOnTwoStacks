@@ -1,0 +1,7 @@
+C:\Users\Анжеліка-Марія\source\repos\120324\120324\obj\Debug\120324.csproj.AssemblyReference.cache
+C:\Users\Анжеліка-Марія\source\repos\120324\120324\obj\Debug\120324.csproj.CoreCompileInputs.cache
+C:\Users\Анжеліка-Марія\source\repos\120324\120324\bin\Debug\120324.exe.config
+C:\Users\Анжеліка-Марія\source\repos\120324\120324\bin\Debug\120324.exe
+C:\Users\Анжеліка-Марія\source\repos\120324\120324\bin\Debug\120324.pdb
+C:\Users\Анжеліка-Марія\source\repos\120324\120324\obj\Debug\120324.exe
+C:\Users\Анжеліка-Марія\source\repos\120324\120324\obj\Debug\120324.pdb
